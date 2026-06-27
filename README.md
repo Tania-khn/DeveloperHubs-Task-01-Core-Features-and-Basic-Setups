@@ -1,3 +1,4 @@
+
 # Social Connect — Web Preview
 
 Interactive web preview of the Social Connect mobile app, rendered inside a phone frame in the browser. Built with Next.js 16 + TypeScript + Tailwind CSS.
@@ -88,3 +89,5 @@ Need Node 18+. Check with `node --version`.
 
 **Tailwind not applying?**
 Run `npm run build` once to regenerate CSS, then `npm run dev` again.
+=======
+# DeveloperHubs-Task-01-Core-Features-and-Basic-Setups
